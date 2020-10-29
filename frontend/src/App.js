@@ -41,7 +41,7 @@ export default class App extends Component {
         {/* <Login/>
         <Ingredient_Selection/> */}
         <Goal_Meter />
- main
+        
       </div>
     );
   }

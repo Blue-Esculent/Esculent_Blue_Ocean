@@ -12,10 +12,11 @@
     
     position: relative;
     padding: 1rem;
-    border: .2rem solid red;
+    border: .2rem solid grey;
     border-radius: 2px;
     margin-right: 0;
     margin-left: 0;
     color: #212529
 
 }
+
